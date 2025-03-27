@@ -1,4 +1,7 @@
-## Hi there 👋
+## No actual repos here, check out my codeberg account https://codeberg.org/cavinbinpkg
+
+## I use this account to contribute to repos that are not on codeberg.
+
 
 <!--
 **cavnbinpkg/cavnbinpkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
