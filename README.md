@@ -1,6 +1,6 @@
 ## No actual repos here, check out my codeberg account https://codeberg.org/cavinbinpkg
 
-## I use this account to contribute to repos that are not on codeberg.
+I use this account to contribute to repos that are not on codeberg.
 
 
 <!--
